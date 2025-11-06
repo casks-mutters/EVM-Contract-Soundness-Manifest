@@ -1,0 +1,18 @@
+{
+  "Filename: manifest.json": {
+    "sepolia": {
+      "ExampleContract": {
+        "address": "0x0000000000000000000000000000000000000000",
+        "expected_code_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "notes": "Replace with a real contract address and its bootstrap hash."
+      }
+    },
+    "mainnet": {
+      "DepositContract": {
+        "address": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
+        "expected_code_hash": "0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+        "notes": "Sample placeholder. Use `bootstrap` to capture the real hash."
+      }
+    }
+  }
+}
